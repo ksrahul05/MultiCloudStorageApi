@@ -10,9 +10,9 @@ Search Functionality: Search for files across multiple platforms with ease.
 OAuth 2.0 Authentication: Secure user authentication and authorization using OAuth 2.0 to ensure data privacy and access control.
 
 ### Technologies Used
-Backend: Spring Boot, Node.js
-Database: MySQL (or another database depending on your setup)
-Cloud APIs: Google Drive API, OneDrive API
-Authentication: OAuth 2.0
-Frontend: Angular (if applicable)
-Version Control: Git, GitHub
+- Backend: Spring Boot, Node.js
+- Database: MySQL (or another database depending on your setup)
+- Cloud APIs: Google Drive API, OneDrive API
+- Authentication: OAuth 2.0
+- Frontend: Angular (if applicable)
+- Version Control: Git, GitHub
